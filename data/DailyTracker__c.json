@@ -1,0 +1,40 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "DailyTracker__c",
+                "referenceId": "DailyTracker__cRef1"
+            },
+            "TaskName__c": "taskA",
+            "ReportDate__c": "2018-02-14",
+            "Plan_Test_Cases__c": 18
+        },
+        {
+            "attributes": {
+                "type": "DailyTracker__c",
+                "referenceId": "DailyTracker__cRef2"
+            },
+            "TaskName__c": "taskA",
+            "ReportDate__c": "2018-02-15",
+            "Plan_Test_Cases__c": 18
+        },
+        {
+            "attributes": {
+                "type": "DailyTracker__c",
+                "referenceId": "DailyTracker__cRef3"
+            },
+            "TaskName__c": "taskB",
+            "ReportDate__c": "2018-02-16",
+            "Plan_Test_Cases__c": 20
+        },
+        {
+            "attributes": {
+                "type": "DailyTracker__c",
+                "referenceId": "DailyTracker__cRef4"
+            },
+            "TaskName__c": "taskA",
+            "ReportDate__c": "2018-02-13",
+            "Plan_Test_Cases__c": 18
+        }
+    ]
+}

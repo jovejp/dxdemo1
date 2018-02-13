@@ -1,0 +1,1 @@
+sfdx force:data:tree:export -q "SELECT TaskName__c, ReportDate__c, Plan_Test_Cases__c, Actual_Test_Cases__c, Owner__C FROM DailyTracker__c" -d ./data
